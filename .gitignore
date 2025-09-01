@@ -76,3 +76,4 @@ DerivedDataCache/*
 # Ignore only DefaultEngine.ini
 Config/DefaultEngine.ini
 
+/Config
